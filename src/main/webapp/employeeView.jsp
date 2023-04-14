@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>	
-		<title>Servlet, JSP, JDBC and MVC Example</title>
+		<title>Employee Management App</title>
 		
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
